@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <identifier>NamePendingLogViewer</identifier>
+  <version>1.0.0</version>
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+    <li>Ludeon.RimWorld.Royalty</li>
+    <li>Ludeon.RimWorld.Ideology</li>
+    <li>Ludeon.RimWorld.Biotech</li>
+    <li>Ludeon.RimWorld.Odyssey</li>
+  </loadAfter>
+  <manifestUri>https://raw.githubusercontent.com/Kuuchuu/NamePendingLogViewer/master/src/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/Kuuchuu/NamePendingLogViewer/releases</downloadUri>
+</Manifest>
